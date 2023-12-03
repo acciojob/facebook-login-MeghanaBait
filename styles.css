@@ -52,6 +52,10 @@ form button{
 	color:white;
 	font-size:12px;
 }
+
+form a{
+	color:#1877f2;
+}
 .signup{
 	background:#42b72a;
 }
